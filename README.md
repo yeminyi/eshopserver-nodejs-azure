@@ -1,6 +1,6 @@
-# Eshop Demo
+# Eshop Demo Backend
 
-Using Angular 8 , boostrap 4 for Front End
+Using Node.js + Express + Azure mocking the backend
 
 This is the [Demo] on firebase (https://eshopdemo2019.firebaseapp.com)
 
