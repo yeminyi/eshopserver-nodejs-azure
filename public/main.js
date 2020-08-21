@@ -51,7 +51,7 @@ module.exports = "<div class=\"row carousel-container\" >\r\n    <app-carousel><
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<nav class=\"navbar navbar-expand-sm navbar-dark bg-dark fixed-top\">\n    <a class=\"navbar-brand\" href=\"#\">Eshop Demo</a>\n    <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarsCollapse\" aria-controls=\"navbarsExample03\" aria-expanded=\"true\" aria-label=\"Toggle navigation\">\n      <span class=\"navbar-toggler-icon\"></span>\n    </button>\n\n    <div class=\"navbar-collapse collapse show\" id=\"navbarsCollapse\" >\n      <ul class=\"navbar-nav mr-auto\">\n        <li class=\"nav-item \">\n          <a class=\"nav-link\" href=\"#\">About Us</a>\n        </li>\n        <li class=\"nav-item\">\n          <a class=\"nav-link\" href=\"#\">Contact Us</a>\n        </li>\n        <li class=\"nav-item\">\n          <a class=\"nav-link\" href=\"#\">Website Map</a>\n        </li>\n      </ul>\n    </div>\n</nav>"
+module.exports = "<nav class=\"navbar navbar-expand-sm navbar-dark bg-dark fixed-top\">\n    <a class=\"navbar-brand\" href=\"#\">Eshop Demo</a>\n    <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarsCollapse\" aria-controls=\"navbarsExample03\" aria-expanded=\"true\" aria-label=\"Toggle navigation\">\n      <span class=\"navbar-toggler-icon\"></span>\n    </button>\n\n    <div class=\"navbar-collapse collapse show\" id=\"navbarsCollapse\" >\n      <ul class=\"navbar-nav mr-auto\">\n       \n      </ul>\n    </div>\n</nav>"
 
 /***/ }),
 
